@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* ---  Глобальные Цвета */
+:root {
+  font-size: 16px;
+  --opt_000: rgba(255, 255, 255, 0);
+  --col_opt_010: rgba(0, 0, 0, 0.1);
+  --col_opt_030: rgba(0, 0, 0, 0.3);
+  --col_opt_050: rgba(0, 0, 0, 0.5);
+  --col_opt_white_5: rgba(255, 255, 255, 0.3); }
+
+/* ---  Цвета для светлой темы */
+[theme="dark"] {
+  --col_bw_000: #fff;
+  --col_bw_100: #F4F4F6;
+  --col_bw_200: #E3E5EA;
+  --col_bw_300: #DDDFE5;
+  --col_bw_400: #AAADB5;
+  --col_bw_500: #86878B;
+  --col_bw_600: #4D4E52;
+  --col_bw_680: #2f3034;
+  --col_bw_700: #212122;
+  --col_bw_760: #1e1e1e;
+  --col_bw_780: #181818;
+  --col_bw_800: #0A0A0A;
+  --col_violet_100: #E1E3FF;
+  --col_violet_200: #d0d2f9;
+  --col_violet_300: #B1BFEF;
+  --col_violet_400: #A0AFE5;
+  --col_violet_500: #8e9fd8;
+  --col_violet_900: rgb(104, 86, 210);
+  --col_violet_1700: #201c35;
+  --col_green_100: #F1FFFC;
+  --col_green_200: #D6F7F0;
+  --col_green_300: #A9D7D7;
+  --col_green_400: #94C5C5;
+  --col_green_500: #80B1AF;
+  --col_green_900: #00eee6;
+  --col_add_1: #DD6413;
+  --col_add_2: #D40227;
+  --col_add_3: #C8E3FF; }
